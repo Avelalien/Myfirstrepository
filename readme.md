@@ -19,7 +19,7 @@ my plans for the weekends are:
 3. Triple-check that all assignments are done.
 
 | Pie name | Number of pies |
-|..........|................|
+|----------|----------------|
 | Apple    | 234624         |
 | Cherry   | 356223         |
 | Pumpkin  | 426234         |
